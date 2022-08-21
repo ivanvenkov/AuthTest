@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTest", "AuthTest\AuthTest.csproj", "{BBEEEEC0-6107-4BDE-B3A4-AD153BBB9078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthTestDB", "AuthTestDB\AuthTestDB.csproj", "{3934893A-CB66-4381-9814-D1061A7AA6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEEEEC0-6107-4BDE-B3A4-AD153BBB9078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEEEEC0-6107-4BDE-B3A4-AD153BBB9078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEEEEC0-6107-4BDE-B3A4-AD153BBB9078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEEEEC0-6107-4BDE-B3A4-AD153BBB9078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3934893A-CB66-4381-9814-D1061A7AA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3934893A-CB66-4381-9814-D1061A7AA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3934893A-CB66-4381-9814-D1061A7AA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3934893A-CB66-4381-9814-D1061A7AA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D5B295F-A1E5-4A44-83CD-710777CA5A98}
+	EndGlobalSection
+EndGlobal
